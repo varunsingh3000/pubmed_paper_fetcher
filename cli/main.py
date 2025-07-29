@@ -45,3 +45,8 @@ if __name__ == "__main__":
 
 # poetry install
 # poetry run get-papers-list "covid" --debug --file covid.csv
+
+
+# pip install --index-url https://test.pypi.org/simple/ \
+#             --extra-index-url https://pypi.org/simple \
+#             pubmed-paper-fetcher-varunsingh3000
