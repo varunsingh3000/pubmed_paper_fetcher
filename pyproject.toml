@@ -6,8 +6,8 @@ authors = ["Varun Singh"]
 readme = "README.md"
 packages = [{ include = "pubmed_fetcher" }]
 license = "MIT"
-homepage = "https://github.com/varunsingh3000/pubmed-paper-fetcher"
-repository = "https://github.com/varunsingh3000/pubmed-paper-fetcher"
+homepage = "https://github.com/varunsingh3000/pubmed_paper_fetcher"
+repository = "https://github.com/varunsingh3000/pubmed_paper_fetcher"
 
 [tool.poetry.dependencies]
 python = "^3.10"
