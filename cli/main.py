@@ -49,4 +49,4 @@ if __name__ == "__main__":
 
 # pip install --index-url https://test.pypi.org/simple/ \
 #             --extra-index-url https://pypi.org/simple \
-#             pubmed-paper-fetcher-varunsingh3000
+#             pubmed-paper-fetcher-varunsingh3000==0.1.3
