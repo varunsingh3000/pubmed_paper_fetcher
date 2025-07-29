@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pubmed-paper-fetcher-varunsingh3000"
-version = "0.1.0"
+version = "0.1.1"
 description = "Fetch PubMed papers with non-academic authors from pharma/biotech companies"
 authors = ["Varun Singh"]
 readme = "README.md"
