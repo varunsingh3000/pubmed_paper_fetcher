@@ -47,13 +47,13 @@ if __name__ == "__main__":
 # poetry run get-papers-list "covid" --debug --file covid.csv
 
 
-# poetry version patch             # bumps to 0.1.2
+# poetry version patch
 # poetry build
 # poetry publish --build -r test-pypi
 
 # pip install --index-url https://test.pypi.org/simple/ \
 #             --extra-index-url https://pypi.org/simple \
-#             pubmed-paper-fetcher-varunsingh3000==0.1.3
+#             pubmed-paper-fetcher-varunsingh3000==0.1.4
 
 
 # source myenv/Scripts/activate
