@@ -87,7 +87,7 @@ The tool is published to [Test PyPI](https://test.pypi.org/) and can be installe
 ```bash
 pip install --index-url https://test.pypi.org/simple/ \
             --extra-index-url https://pypi.org/simple \
-            pubmed-paper-fetcher-varunsingh3000==0.1.3
+            pubmed-paper-fetcher-varunsingh3000==0.1.4
 ```
 Note: The extra index part of the command is added to ensure other libraries such as rapidfuzz can be installed from the main index.
 
